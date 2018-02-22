@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <feature name="android.hardware.sensor.accelerometer" />
+    <feature name="android.hardware.sensor.compass" />
+    <feature name="android.hardware.sensor.light" />
+    <feature name="android.hardware.sensor.proximity" />
+</permissions>
